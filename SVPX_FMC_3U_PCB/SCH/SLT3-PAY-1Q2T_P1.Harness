@@ -1,0 +1,3 @@
+CLK=CLK_P,CLK_N
+SpW=Sout_P,Sout_N,Dout_P,Dout_N,Sin_P,Sin_N,Din_P,Din_N
+SYSCON=SYS_CON,SYS_CON_P

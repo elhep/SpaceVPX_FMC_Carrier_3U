@@ -634,14 +634,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for SVPXFMC_Carrier_3U\BGA Escape Route - SVPXFMC_Carrier_3U.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for SVPXFMC_Carrier_3U\Design Rule Check - SVPXFMC_Carrier_3U.html
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=..\..\..\Politechnika\Magisterska\Lib\*.*
 IncludeSubFolders=1

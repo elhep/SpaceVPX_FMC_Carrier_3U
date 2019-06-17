@@ -634,23 +634,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
-DocumentPath=SVPXFMC_Carrier_3U_first_version.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WPBWUNEH
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SVPXFMC_Carrier_3U\BGA Escape Route - SVPXFMC_Carrier_3U.html
 DItemRevisionGUID=

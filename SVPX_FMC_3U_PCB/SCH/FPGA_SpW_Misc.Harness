@@ -1,2 +1,3 @@
 CLK=CLK_P,CLK_N
+DIFF_CLK=CLK_P,CLK_N
 SpW=Dout_P,Dout_N,Sout_P,Sout_N,Din_P,Din_N,Sin_P,Sin_N

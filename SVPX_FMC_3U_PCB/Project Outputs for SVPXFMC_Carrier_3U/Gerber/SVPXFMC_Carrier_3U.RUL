@@ -1,0 +1,20 @@
+DRC Rules Export File for PCB: D:\OneDrive - Politechnika Warszawska\Projekty\Creotech\SpaceVPX_FMC_Carrier_3U\SVPX_FMC_3U_PCB\SVPXFMC_Carrier_3U.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Diff_BGA_Pow|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_Diff_Gap|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_Diff_Diff|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Diff_BGA|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_Diff_P|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_copper_balancing|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_KeepOut|Scope=Board|Minimum=11.81
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_mid|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_out|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width_PWR|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_LPDDR|Scope=Board|Minimum=3.22
+RuleKind=Clearance|RuleName=Clearance_innerL|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_outerL|Scope=Board|Minimum=4.92
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance_BGA|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_LPDDR|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

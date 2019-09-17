@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SVPXFMC_Carrier_3U.PcbDoc   17.09.2019  19:40:34
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SVPXFMC_Carrier_3U.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.16mm (6mil)                                             Round             171       PTH        0.00mm (0.00inch)
+T2      0.2mm (8mil)                                              Round             978       PTH        0.00mm (0.00inch)
+T3      0.3mm (12mil)                                             Round             343       PTH        0.00mm (0.00inch)
+T4      0.475mm (19mil)                                           Round             280       PTH        0.00mm (0.00inch)
+T5      0.5mm (20mil)                                             Round             515       PTH        0.00mm (0.00inch)
+T6      0.56mm (22mil)                                            Round             10        PTH        0.00mm (0.00inch)
+T7      0.8mm (31mil)                                             Round             10        PTH        0.00mm (0.00inch)
+T8      1.7mm (67mil)                                             Round             6         PTH        0.00mm (0.00inch)
+T9      2.2mm (87mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T10     2.7mm (106mil)                                            Round             4         PTH        0.00mm (0.00inch)
+T11     3mm (118mil)                                              Round             2         PTH        0.00mm (0.00inch)
+T12     4.65mm (183mil)                                           Round             2         PTH        0.00mm (0.00inch)
+T13     1.3mm (51mil)                                             Round             2         NPTH       0.00mm (0.00inch)
+T14     1.511mm (60mil)                                           Round             2         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              2327
+
+Total Processing Time (hh:mm:ss) : 00:00:02

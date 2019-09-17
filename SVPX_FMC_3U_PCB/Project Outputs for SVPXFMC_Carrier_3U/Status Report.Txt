@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : PCB Document [SVPXFMC_Carrier_3U.PcbDoc]
+   Generated File[SVPXFMC_Carrier_3U.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:40:47 On 17.09.2019

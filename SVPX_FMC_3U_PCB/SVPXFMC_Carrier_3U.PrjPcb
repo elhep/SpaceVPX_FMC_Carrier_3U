@@ -696,10 +696,6 @@ Variation19=Designator=R159|UniqueId=\QRLUQLWT\XHWFFSFQ|Kind=0|AlternatePart=
 Variation20=Designator=R167|UniqueId=\QRLUQLWT\LHORTTXL|Kind=0|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for SVPXFMC_Carrier_3U\Design Rule Check - SVPXFMC_Carrier_3U.html
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=..\..\..\..\Politechnika\Magisterska\Lib\*.*
 IncludeSubFolders=1
@@ -773,6 +769,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
 ConfigurationType=
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
